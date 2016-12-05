@@ -1,4 +1,4 @@
-#Blog: https://michelcordeiro.github.io
+#Blog: http://michelcordeiro.com.br/blog
 
 Olá, bem-vindo ao meu blog!
 
