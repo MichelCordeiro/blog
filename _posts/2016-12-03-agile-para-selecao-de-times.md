@@ -53,7 +53,7 @@ img: recrutamento.jpg
     <h3 class="panel-title">VivaReal</h3>
     </div>
     <div class="panel-body">
-    <span style="font-weight: 400;">A vivaReal, portal de anúncios de imóveis, tem o ponto alto de seu processo em uma abordagem 100% onde o candidato interage no desenvolvimento de um código proposto pela empresa em uma plataforma automatizada. Quando aprovado para o contato presencial, o candidato é convidado a fazer uma imersão pela cultura do vivaReal para que esteja o mais inserido e alinhado possível com os valores da empresa. </span>
+    <span style="font-weight: 400;">A vivaReal, portal de anúncios de imóveis, tem o ponto alto de seu processo em uma abordagem onde o candidato interage no desenvolvimento de um código proposto pela empresa em uma plataforma automatizada. Quando aprovado para o contato presencial, o candidato é convidado a fazer uma imersão pela cultura do vivaReal para que esteja o mais inserido e alinhado possível com os valores da empresa. </span>
     </div>
 </div>
 
@@ -88,24 +88,24 @@ img: recrutamento.jpg
 
 <span style="font-weight: 400;">Organizamos as pessoas em times e demos o desafio de um produto que deveria funcionar de forma integrada, tendo features mobile e desktop. Os times deveriam pensar em entregáveis aplicados a arquitetura de integração, planejamento das entregas e mockup's do produto.</span>
 
-<span style="font-weight: 400;">Após uma rodada de energizer para facilitar a integração inicial os grupos encaravam o desafio de criar a concepção do produto dentro de cerimônias (Planejamento, Desenvolvimento, Feedback do Cliente, Retrospectiva) definidas com timebox para cada momento. Além disso, os candidatos tinham um cliente super exigente que os colocava em estado alterado em diversos momentos a cada rodada de feedback.</span>
+<span style="font-weight: 400;">Após uma rodada de energizer para facilitar a integração inicial os grupos encaravam o desafio de criar a concepção do produto dentro de cerimônias (Planejamento, Desenvolvimento, Feedback do Cliente, Retrospectiva) definidas com timebox para cada momento. Além disso, os candidatos tinham um cliente super exigente, que os colocava em estado alterado em diversos momentos a cada rodada de feedback.</span>
 
 
 ![Michel Cordeiro]({{site.baseurl}}/images/prova_teorica.jpg)
 
 <span style="font-weight: 400;">Durante as rodadas, a cada cerimônia íamos identificando os líderes, os passivos, os reclamões. Em algumas horas conseguíamos enxergar nos candidatos a capacidade de se relacionar enquanto time e produzir resultados juntos. Além é claro das questões técnicas necessárias para produzirem os entregáveis exigidos.</span>
 
-<span style="font-weight: 400;">Ao finalizar essa etapa as conversas nos corredores era de relatos de já ter valido a experiência; de terem sidos surpreendidos com o que foi exigido a eles e principalmente pelo resultado que alcançaram.</span>
+<span style="font-weight: 400;">Ao finalizar essa etapa as conversas nos corredores era de relatos de já ter valido a experiência; de terem sido surpreendidos com o que foi exigido a eles e principalmente pelo resultado que alcançaram.</span>
 
 <span style="font-weight: 400;">Neste momento tínhamos um grupo que rodou durante algumas horas o modelo de Tuckman.</span>
 
 <b>Forming:</b><span style="font-weight: 400;"> Durante o primeiro energizer e a primeira rodada. As pessoas foram se conhecendo e naturalmente construindo laços e conexões para buscar solucionar os problemas;</span>
 
-<b>Storming:</b><span style="font-weight: 400;"> A cada rodada de feedback o cliente dava negativas duras aos desenvolvedores. O que balançava as equipes e os colocava em estava alterado. Nesses momentos surgiam aqueles que sempre tem desculpas para tudo, os que reclamava, os que apontavam a culpa para os outros. O conflito era provocado intencionalmente para que pudessemos avaliar quais seriam as ações de solução.</span>
+<b>Storming:</b><span style="font-weight: 400;"> A cada rodada de feedback o cliente dava negativas duras aos desenvolvedores. O que balançava as equipes e os colocava em estava alterado. Nesses momentos surgiam aqueles que sempre tem desculpas para tudo, os que reclamavam, os que apontavam a culpa para os outros. O conflito era provocado intencionalmente para que pudessemos avaliar quais seriam as ações de solução.</span>
 
-<b>Norming:</b><span style="font-weight: 400;"> A cada retrospectiva e duras de feedback as equipes iam se achando na dinâmica e padronizando sua forma de trabalho. A evolução dos grupos era clara e sentida por eles mesmos.</span>
+<b>Norming:</b><span style="font-weight: 400;"> A cada retrospectiva e duras rodadas de feedback as equipes iam se achando na dinâmica e padronizando sua forma de trabalho. A evolução dos grupos era clara e sentida por eles mesmos.</span>
 
-<b>Performing:</b><span style="font-weight: 400;"> No momento em que tinham a experiência por ter passado todo o ciclo os times passaram a ser assertivos com o que entregar e como entregar. Atendiam o que o cliente desejava e conseguiam recuperar seus atrasos em rodadas passadas.</span>
+<b>Performing:</b><span style="font-weight: 400;"> No momento em que tinham a experiência por ter passado todo o ciclo, os times passaram a ser assertivos com o que entregar e como entregar. Atendiam o que o cliente desejava e conseguiam recuperar seus atrasos em rodadas passadas.</span>
 
 <b></b>
 
@@ -123,7 +123,7 @@ img: recrutamento.jpg
 Chamada prova prática Hackathon:
 <iframe width="100%" height="360" src="https://www.youtube.com/embed/FK0BRANfDQI" frameborder="0" allowfullscreen></iframe>
 
-<span style="font-weight: 400;">Os feedbacks de superação dos times foi incrível. Muitos descreveram como não acreditavam que seria possível entregar o produto e como nessa uma semana aprenderam coisas novas e se superaram.</span>
+<span style="font-weight: 400;">Os feedbacks de superação dos times foram incríveis. Muitos descreveram como não acreditavam que seria possível entregar o produto e como nessa uma semana aprenderam coisas novas e se superaram.</span>
 
 <b>Conclusão</b>
 
@@ -131,6 +131,6 @@ Chamada prova prática Hackathon:
 
 <span style="font-weight: 400;">Enquanto elaborador desse formato, recrutador e facilitador de todo o processo, tive a oportunidade de trazer para o time um grupo que logo na primeira semana já entrou tão alinhado que foi capaz de já produzir entregáveis.</span>
 
-<span style="font-weight: 400;">Espero que essa experiência contribua para você e fique a vontade para compartilhar as suas aqui também.</span>
+<span style="font-weight: 400;">Espero que essa experiência contribua para você e fique a vontade para compartilhar as suas iniciativas aqui também.</span>
 
 <span style="font-weight: 400;">Abraço!</span>
