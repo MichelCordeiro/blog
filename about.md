@@ -19,7 +19,7 @@ Também possuo experiência na coordenação de implantação de ERP's utilizand
 <h4>Technical Generalist Stack:</h4>
 
 - Developer: Java e frameworks como maven, vraptor, jsf, hibernate, spring, mybatis, entre outros;
-- Tester: TDD e BDD;
+- Tester: TDD, BDD e Selenium;
 - DevOps: Jenkins, Sonarqube, Artifactory, Vagrant;
 - Mobile: Android e iOS;
 
@@ -34,6 +34,17 @@ Possuo certificações como: [``CSPO``](https://www.scrumalliance.org/certificat
 -	MBA em Análise de Processos de Negócio (IGTI)
 -	Gerenciamento de Projetos com base no PMBOK 4ª edição (TI Exames)
 -	Instrutor de formação profissional (SENAI-MA)
+
+<h4>Publicação:</h4>
+
+- [``The Bug Hunter``](https://www.scrumalliance.org/community/articles/2016/march/the-bug-hunter)
+- [``How to Use Energizers and Gamification to Engage Remote Teams``](https://www.scrumalliance.org/community/articles/2016/october/how-to-use-energizers-and-gamification-to-engage-r)
+
+<h4>Volunteer:</h4>
+
+- The Developers Conference 2016 - Palestrante;
+- Agile Brazil 2016 - Voluntário;
+- Agile Trends 2017 - Palestrante; 
 
 <h4>Extra:</h4>
 
