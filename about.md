@@ -23,7 +23,7 @@ Também possuo experiência na coordenação de implantação de ERP's utilizand
 - DevOps: Jenkins, Sonarqube, Artifactory, Vagrant;
 - Mobile: Android e iOS;
 
-Possuo certificações como: [``CSPO``](https://www.scrumalliance.org/certifications/practitioners/cspo-certification ),  [``CSM``](https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm),  [``ACP``](#)
+Possuo certificações como: [``CSPO``](https://www.scrumalliance.org/certifications/practitioners/cspo-certification ),  [``CSM``](https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm),  [``ACP``](#), [``CSP``](https://www.scrumalliance.org/community/profile/mcordeiro)
 
 <h4>Qualificação em:</h4>
 
